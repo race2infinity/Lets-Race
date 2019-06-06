@@ -1,5 +1,5 @@
-# PythonMiniProject
-A racing game which uses the module pygame
+# Let's Race!
+A racing game made using the pygame module
 
 # Index
 + [Installation](#installation)
@@ -9,7 +9,7 @@ A racing game which uses the module pygame
 #### Cloning the project
 ```
 $ git clone https://github.com/kylelobo/Lets-Race.git
-$ cd PythonMiniProject
+$ cd Lets-Race
 ```
 #### Installing pip & pygame
 ```
@@ -17,7 +17,7 @@ $ sudo apt-get install -y python3-pip
 $ pip3 install pygame --user
 ```
   
-## Playing The Game<a name="running"></a>
+## Playing the game<a name="running"></a>
 In order to play the game, type this command in your terminal-
 ```
 $ python3 letsrace.py
